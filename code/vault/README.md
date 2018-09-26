@@ -18,7 +18,7 @@ export VAULT_USERNAME=''
 export VAULT_PASSWORD=''
 ```
 
-*** This will be your secret0, precious root secret.***
+*** This will be your (secret0) root secret. Keep it to yourself safely somewhere ***
 
 Source this file: `source ./secret0`.
 
