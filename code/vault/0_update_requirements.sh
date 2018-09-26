@@ -11,7 +11,7 @@ docker pull vault
 docker pull djenriquez/vault-ui
 
 # Set docker environment, networks, etc
-docker network create --driver bridge isolated_nw
+docker network create --driver bridge isolated_nw || true
 
 echo -e "\nRemember to set environment variables before running the rest of the scripts:"
 echo -e "VAULT_ADDR, VAULT_DEV_ROOT_TOKEN_ID, VAULT_USERNAME, VAULT_PASSWORD"
