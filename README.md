@@ -1,3 +1,5 @@
+This setup was originally done for 
+
 ![All Day DevOps 2017](./doc/ADDO_logo_horizontal.png "All Day DevOps 2017")
 
 > by @3jmaster
